@@ -1,0 +1,15 @@
+financial_rag_project/rag_env/
+financial_rag_project/models/
+financial_rag_project/checkpoints/
+financial_rag_project/results/
+financial_rag_project/__pycache__/
+__pycache__/
+*.pyc
+*.safetensors
+*.pt
+*.pth
+*.bin
+.env
+financial_rag_project/.env
+.DS_Store
+.vscode/

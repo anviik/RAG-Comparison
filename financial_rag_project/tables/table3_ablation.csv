@@ -1,0 +1,25 @@
+Model,Embedding,Temp,k,ROUGE-1,ROUGE-L,Exact Match,LLM Judge,N
+GPT-4o-mini,Base,0.0,3,0.1048,0.0969,0.0,N/A,150
+GPT-4o-mini,Base,0.0,5,0.1153,0.1065,0.0,1.9333,150
+GPT-4o-mini,Base,0.7,3,0.1062,0.0977,0.0,N/A,150
+GPT-4o-mini,Base,0.7,5,0.114,0.1056,0.0,N/A,150
+GPT-4o-mini,Fine-tuned,0.0,3,0.1065,0.0982,0.0,N/A,150
+GPT-4o-mini,Fine-tuned,0.0,5,0.1175,0.1075,0.0,1.94,150
+GPT-4o-mini,Fine-tuned,0.7,3,0.1055,0.0974,0.0,N/A,150
+GPT-4o-mini,Fine-tuned,0.7,5,0.1176,0.1098,0.0,N/A,150
+Claude-3.5-Haiku,Base,0.0,3,0.0511,0.0462,0.0,N/A,150
+Claude-3.5-Haiku,Base,0.0,5,0.054,0.0483,0.0,2.0667,150
+Claude-3.5-Haiku,Base,0.7,3,0.0515,0.047,0.0,N/A,150
+Claude-3.5-Haiku,Base,0.7,5,0.0541,0.0491,0.0,N/A,150
+Claude-3.5-Haiku,Fine-tuned,0.0,3,0.0532,0.0489,0.0,N/A,150
+Claude-3.5-Haiku,Fine-tuned,0.0,5,0.0579,0.0533,0.0,2.0667,150
+Claude-3.5-Haiku,Fine-tuned,0.7,3,0.054,0.05,0.0,N/A,150
+Claude-3.5-Haiku,Fine-tuned,0.7,5,0.0564,0.0522,0.0,N/A,150
+Mistral-7B,Base,0.0,3,0.078,0.0718,0.0,N/A,150
+Mistral-7B,Base,0.0,5,0.0764,0.0704,0.0,1.2467,150
+Mistral-7B,Base,0.7,3,0.0687,0.0659,0.0,N/A,150
+Mistral-7B,Base,0.7,5,0.0703,0.0647,0.0,N/A,150
+Mistral-7B,Fine-tuned,0.0,3,0.0922,0.085,0.0,N/A,150
+Mistral-7B,Fine-tuned,0.0,5,0.0787,0.0726,0.0,1.3067,150
+Mistral-7B,Fine-tuned,0.7,3,0.0892,0.0817,0.0,N/A,150
+Mistral-7B,Fine-tuned,0.7,5,0.0723,0.0667,0.0,N/A,150

@@ -1,0 +1,4 @@
+Model,R1 No-RAG,R1 Base,R1 Fine-tuned,Δ (norag→ft),Judge No-RAG,Judge Fine-tuned
+GPT-4o-mini,0.0929,0.1153,0.1175,0.0246,1.3867,1.94
+Claude-3.5-Haiku,0.043,0.054,0.0579,0.0149,1.2333,2.0667
+Mistral-7B,N/A,0.0764,0.0787,N/A,N/A,1.3067

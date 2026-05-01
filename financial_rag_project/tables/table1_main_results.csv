@@ -1,0 +1,10 @@
+Model,Embedding,ROUGE-1,ROUGE-L,Exact Match,LLM Judge (/3),Num Acc (%),Latency (s)
+GPT-4o-mini,Base,0.1153,0.1065,0.0,1.9333,21.62,2.196
+GPT-4o-mini,Fine-tuned,0.1175,0.1075,0.0,1.94,13.51,2.784
+Claude-3.5-Haiku,Base,0.054,0.0483,0.0,2.0667,18.92,2.92
+Claude-3.5-Haiku,Fine-tuned,0.0579,0.0533,0.0,2.0667,16.22,2.896
+Mistral-7B,Base,0.0764,0.0704,0.0,1.2467,13.51,4.781
+Mistral-7B,Fine-tuned,0.0787,0.0726,0.0,1.3067,5.41,4.848
+Δ GPT-4o-mini,ft−base,0.0022,0.001,0.0,0.0067,-8.11,0.588
+Δ Claude-3.5-Haiku,ft−base,0.0039,0.005,0.0,0.0,-2.7,-0.024
+Δ Mistral-7B,ft−base,0.0023,0.0022,0.0,0.06,-8.1,0.067
